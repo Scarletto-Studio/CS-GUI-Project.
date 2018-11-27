@@ -1,0 +1,16 @@
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe.config
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.pdb
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\libvideo.dll
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.IO.Compression.dll
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Net.Http.dll
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csprojAssemblyReference.cache
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Form1.resources
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Properties.Resources.resources
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.GenerateResource.cache
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CoreCompileInputs.cache
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CopyComplete
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.exe
+D:\Poomkun\PoomkunHub\Labs\CSGUILab\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.pdb
